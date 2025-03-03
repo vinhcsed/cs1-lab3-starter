@@ -46,7 +46,7 @@ How many apples would you like to buy?: 6
 Sorry! We don’t have enough inventory to process that order.
 ```
 
-#### Example 2
+#### Example 3
 ```
 Welcome to Bob’s Fruits!
 How many oranges would you like to buy?: 200
